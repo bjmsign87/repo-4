@@ -1,0 +1,95 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 40px;
+}
+.orange-color{
+    color: orange;
+}
+.attractive{
+    color: red;
+}
+section{
+    display: flex;
+
+}
+.half-width{
+    width: 50%;
+    padding: 3%;
+}
+.half-width image{
+    width:40%;
+}
+.link-style{
+    text-decoration: none;
+    background-image: -moz-radial-gradient(blue, tomato);
+    padding: 10px 12px;
+    border-radius: 5px;
+    color:white;
+    font-weight: 600;
+    font-style: initial;
+    margin-left: 50px;
+
+}
+.super-script{
+    font-weight: 900;
+    color: tomato;
+    font: size 50px;
+
+}
+.top-banner{
+    background-image: url("shapes/new\ shape.png");
+    background-repeat: no-repeat;
+    size: 20%;
+    margin-top: 20px;
+    margin-left: 20px;
+
+}
+.link-style1{
+    text-decoration: none;
+    padding: 10px 12px;
+    border-radius: 5px;
+    color:white;
+    font-weight: 600;
+    font-style: initial;
+    margin-left: 50px;
+    background-image: linear-gradient(yellow, tomato);
+
+}
+.top-banner1{
+    background-image: url("shapes/shape-11.png");
+    background-repeat: no-repeat;
+    size: 15%;
+
+}
+#imgspecial{
+    padding-left: 110px;
+    padding-top: 32px;
+}
+.top-banner2{
+    background-image: url("shapes/shape-1.png");
+    background-repeat: no-repeat;
+    size: 15%;
+    
+}
+#imgspecial1{
+    padding-left: 90px;
+    padding-top: 90px;
+}
+.link-style2{
+    text-decoration: none;
+    padding: 10px 12px;
+    border-radius: 5px;
+    color:white;
+    font-weight: 600;
+    font-style: initial;
+    margin-left: 50px;
+    background-image: linear-gradient(green, tomato);
+
+}
+.border{
+    border-left: 5px;
+    border-image: linear-gradient(red, blue);
+    border-width: 5px;
+}
